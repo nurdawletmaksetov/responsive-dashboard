@@ -1,0 +1,11 @@
+{
+    "notification": "Notification",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "rag": "RAG",
+    "forecast": "Forecast",
+    "complaints": "Complaints",
+    "verification": "Verification",
+    "settings": "Settings"
+}
